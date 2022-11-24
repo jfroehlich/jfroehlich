@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on this and that
 - 📫 How to reach me ...
   - on my website [jfroehlich.net](https://jfroehlich.net/)
-  - in the fediverse at <a href="https://mastodon.social/@jfroehlich" rel="me"><code>@jfroehlich@mastodon.social</code></a>
+  - in the fediverse at <a href="https://mastodon.social/@jfroehlich">`@jfroehlich@mastodon.socia`</a>
   - and maybe on twitter [@jfroehlich](https://twitter.com/jfroehlich)
 
 
