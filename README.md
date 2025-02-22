@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
   - on my website [jfroehlich.net](https://jfroehlich.net/)
   - in the fediverse at <a href="https://mastodon.social/@jfroehlich">`@jfroehlich@mastodon.social`</a>
-  - and maybe on twitter [@jfroehlich](https://twitter.com/jfroehlich)
+
 
 
 <!---
